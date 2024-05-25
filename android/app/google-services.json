@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "6809972591",
+    "project_id": "hayaa-161f5",
+    "storage_bucket": "hayaa-161f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6809972591:android:1724cdd2e24774b4af029a",
+        "android_client_info": {
+          "package_name": "com.egycode.hayaa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaFCCiLHrWc8ey5_X6_xxRP4WmtHttClo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
